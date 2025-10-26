@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HackRND2025</string>
+    <string name="URL">http://10.165.5.242:80</string>
+</resources>
